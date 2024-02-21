@@ -1,0 +1,6 @@
+@RestAspNet8VStudio_HostAddress = http://localhost:5100
+
+GET {{RestAspNet8VStudio_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
